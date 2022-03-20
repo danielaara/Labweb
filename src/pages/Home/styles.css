@@ -63,11 +63,6 @@
    
 }
 
-.home-content-container button{
-  width: 506px ;
-
-}
-
 @media(min-width: 768px){
   .home-content-container{
    padding: 100px 20px ;
